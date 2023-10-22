@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.SimpleCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator" />
+</resources>
